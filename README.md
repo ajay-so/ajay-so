@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer & Backend Enthusiast from India</h3>
 
 <p align="center">
- <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer at work" width="400"/>
+ <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer at work" width="800"/>
 </p>
 
 ---
