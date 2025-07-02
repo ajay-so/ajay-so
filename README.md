@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **MERN stack & real-world project clones**
+- 🔭 I’m currently working on **MERN stack & real-world projects**
 - 🌱 I’m currently learning **Operating Systems & Advanced JavaScript**
 - 🤝 I’m open to collaborate on **Open Source and Backend Projects**
 - 💬 Ask me about **Node.js, MongoDB, Tailwind CSS, and REST APIs**
@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,tailwind,bootstrap,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c++,tailwind,bootstrap,git,github,linux,vscode,postman" />
 </p>
 
 ---
