@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer & Backend Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/06/f8/35/06f835b2fcd8e8c75f68598b9a4d2d5f.gif" alt="Developer at work" width="400"/>
+ <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer at work" width="400"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dev-ajay-kumar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
   </a>
