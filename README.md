@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Ray</h1>
-<h3 align="center">A passionate Web Developer and Backend Enthusiast from India</h3>
+<h3 align="center">A passionate Web Developer & Backend Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
+  <img src="https://i.pinimg.com/originals/06/f8/35/06f835b2fcd8e8c75f68598b9a4d2d5f.gif" alt="Developer at work" width="400"/>
 </p>
 
 ---
 
+### 👨‍💻 About Me
+
 - 🔭 I’m currently working on **MERN stack & real-world project clones**
-- 🌱 I’m currently learning **System Design, Docker & Advanced JavaScript**
-- 🤝 I’m looking to collaborate on **Open Source and Backend Projects**
+- 🌱 I’m currently learning **Operating Systems & Advanced JavaScript**
+- 🤝 I’m open to collaborate on **Open Source and Backend Projects**
 - 💬 Ask me about **Node.js, MongoDB, Tailwind CSS, and REST APIs**
-- 📫 How to reach me: **ajayroy9065@gmail.com**
-- ⚡ Fun fact: *I enjoy turning complex problems into simple code!* ⚡
+- 📫 Reach me at: **ajayroy9065@gmail.com**
+- ⚡ Fun fact: *I enjoy turning complex problems into clean, readable code!*
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,tailwind,bootstrap,git,github,linux,vscode,postman" />
 </p>
 
@@ -26,20 +28,22 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayraydev&show_icons=true&theme=tokyonight" alt="Ajay's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ajayraydev&theme=tokyonight" alt="Ajay's GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajay-so&show_icons=true&theme=tokyonight" alt="Ajay's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=ajay-so&theme=tokyonight" alt="Ajay's GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dev-ajay-kumar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ajayroy9065@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
   </a>
 </p>
