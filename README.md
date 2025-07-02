@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer & Backend Enthusiast from India</h3>
 
 <p align="center">
- <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer at work" width="600"/>
+ <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer at work" width="400"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c++,tailwind,bootstrap,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,linux,vscode,postman" />
 </p>
 
 ---
@@ -31,7 +31,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajay-so&show_icons=true&theme=tokyonight" alt="Ajay's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=ajay-so&theme=tokyonight" alt="Ajay's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-so&layout=compact&theme=tokyonight" alt="Top Languages Card" />
+ <br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-so&theme=tokyonight" alt="Profile Summary Card" />
 </p>
 
 ---
