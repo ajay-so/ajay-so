@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar Ray</h1>
-<h3 align="center">A passionate Web Developer & Backend Enthusiast from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ajay+Kumar+Ray+%F0%9F%91%8B;Full+Stack+Developer+%7C+Backend+Enthusiast;Building+Digital+Solutions+with+MERN+Stack" alt="Typing SVG" />
+</div>
 
 <table>
   <tr>
@@ -16,7 +17,7 @@
 
    </td>
    <td>
-     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Developer at work" width="400"/>
+     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="Coding Animation"/>
    </td>
   </tr>
 </table>
@@ -43,6 +44,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay-so&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -54,3 +63,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajay-so&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  ### ⭐ "Great code is not just about solving problems, it's about solving them elegantly"
+</div>
