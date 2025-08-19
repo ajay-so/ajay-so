@@ -2,10 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ajay+Kumar+Ray+%F0%9F%91%8B;Full+Stack+Developer+%7C+Backend+Enthusiast;Building+Digital+Solutions+with+MERN+Stack" alt="Typing SVG" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60%" height="50%" alt="Coding Animation"/>
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **MERN stack & real-world projects**
@@ -14,13 +18,6 @@
 - 💬 Ask me about **Node.js, MongoDB, Tailwind CSS, and REST APIs**
 - 📫 Reach me at: **ajayroy9065@gmail.com**
 - ⚡ Fun fact: *I enjoy turning complex problems into clean, readable code!*
-
-   </td>
-   <td>
-     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="Coding Animation"/>
-   </td>
-  </tr>
-</table>
 
 ---
 
